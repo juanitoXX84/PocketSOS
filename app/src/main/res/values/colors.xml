@@ -1,0 +1,6 @@
+<resources>
+    <color name="primary_green">#00E676</color>
+    <color name="primary_blue">#00B0FF</color>
+    <color name="dark_background">#000000</color>
+    <color name="card_dark">#1E2229</color>
+</resources>

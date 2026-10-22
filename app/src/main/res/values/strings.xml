@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pocket SOS</string>
+    <string name="exit_mode">Modo salida</string>
+    <string name="my_lists">Mis listas</string>
+    <string name="reminders">Recordatorios</string>
+    <string name="history">Historial</string>
+</resources>
